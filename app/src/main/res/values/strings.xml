@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chatting Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="default_web_client_id" translatable="false">1035693047466-fgt09nv3causoq7s90m78v8gtk0ckkqv.apps.googleusercontent.com</string>-->
+
+</resources>
